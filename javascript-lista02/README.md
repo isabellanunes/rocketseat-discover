@@ -1,4 +1,4 @@
-# Lista de Exercícios 01 de JavaScript
+# Lista de Exercícios 02 de JavaScript
 
 1. Declare uma variável de nome weight
 2. Que tipo de dado é a variável acima?
